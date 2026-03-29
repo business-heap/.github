@@ -19,6 +19,7 @@
 | **[arb-detector](https://github.com/business-heap/arb-detector)** | Детектор арбитражных ситуаций |
 | **[arb-api](https://github.com/business-heap/arb-api)** | API сервер |
 | **[arb-ui](https://github.com/business-heap/arb-ui)** | Пользовательский интерфейс |
+| **[arb-admin](https://github.com/business-heap/arb-admin)** | Админка |
 | **[arb-deploy](https://github.com/business-heap/arb-deploy)** | Инфраструктура и развертывание |
 | **[arb-landing](https://github.com/business-heap/arb-landing)** | Лэндинг BetRush |
 
