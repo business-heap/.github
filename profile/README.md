@@ -20,6 +20,7 @@
 | **[arb-api](https://github.com/business-heap/arb-api)** | API сервер |
 | **[arb-ui](https://github.com/business-heap/arb-ui)** | Пользовательский интерфейс |
 | **[arb-deploy](https://github.com/business-heap/arb-deploy)** | Инфраструктура и развертывание |
+| **[arb-landind](https://github.com/business-heap/arb-landing)** | Лэндинг BetRush |
 
 
 ## 👥 Команда проекта
